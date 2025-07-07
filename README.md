@@ -3,7 +3,7 @@
 
 **Desenvolvedor Front-end**
 
-Me chamo Leandro Cesar da Silva, sou um desenvolvedor de software iniciante do Rio de Janeiro, apaixonado por tecnologia e sempre em busca de aprender mais. Atualmente cursando Análise e Desenvolvimento de Sistema na Faculdade Anhanguera.
+**Me chamo Leandro Cesar da Silva, sou um desenvolvedor de software iniciante do Rio de Janeiro, apaixonado por tecnologia e sempre em busca de aprender mais. Atualmente cursando Análise e Desenvolvimento de Sistema na Faculdade Anhanguera.**
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/euchamit)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/leandro-cesar2)
